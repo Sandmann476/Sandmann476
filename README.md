@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandmann476
-- 👀 I’m interested in learning Java, Javascript and python.
+- 👀 I’m interested in learning python.
 - 🌱 I'm still very new to programming.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
